@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class ArrayOperations {
+public class Practical1 {
     private static final int MAX_SIZE = 100; // Maximum size of the array
     private int[] array;
     private int size;
 
-    public ArrayOperations() {
+    public Practical1() {
         array = new int[MAX_SIZE];
         size = 0;
     }
@@ -64,7 +64,7 @@ public class ArrayOperations {
     }
 
     public static void main(String[] args) {
-        ArrayOperations arrayOps = new ArrayOperations();
+        Practical1 arrayOps = new Practical1();
         Scanner scanner = new Scanner(System.in);
 
         int choice;

@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-class SparseMatrix {
+class Practical2 {
     private int rows;
     private int cols;
     private int[][] matrix;
 
-    public SparseMatrix(int rows, int cols) {
+    public Practical2(int rows, int cols) {
         this.rows = rows;
         this.cols = cols;
         this.matrix = new int[rows][cols];
@@ -85,7 +85,7 @@ class SparseMatrix {
         System.out.print("Enter the number of columns in the matrix: ");
         int cols = scanner.nextInt();
 
-        SparseMatrix sparseMatrix = new SparseMatrix(rows, cols);
+        Practical2 sparseMatrix = new Practical2(rows, cols);
 
         // Insert elements into the matrix
         System.out.println("Enter the elements of the matrix:");
