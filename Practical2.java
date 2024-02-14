@@ -1,3 +1,8 @@
+// Name: Manas Sunil Patil
+// Enrollment Number: 202203103510235
+// Branch: B.Tech. Computer Science and Engineering
+// Practical 2: Implementation of Array applications of Sparse Matrices.
+
 import java.util.Scanner;
 
 class Practical2 {

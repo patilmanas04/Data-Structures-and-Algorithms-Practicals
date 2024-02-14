@@ -1,3 +1,8 @@
+// Name: Manas Sunil Patil
+// Enrollment Number: 202203103510235
+// Branch: B.Tech. Computer Science and Engineering
+// Practical 1: Implementation of Array operations - Insert, Delete, Search, Update, and Display.
+
 import java.util.Scanner;
 
 public class Practical1 {
